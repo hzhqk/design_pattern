@@ -1,2 +1,2 @@
 # design_pattern
-practice some design patterns in Java
+exercise some design patterns in Java
